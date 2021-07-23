@@ -1,0 +1,3 @@
+Android app that connects to Arduino as a client.
+
+It sends a detection command to Arduino so that it can check the detection result of the sensor.
